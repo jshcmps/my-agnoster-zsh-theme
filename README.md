@@ -18,7 +18,7 @@ Preferences
 
 To test if your terminal and font support it, check that all the necessary characters are supported by copying the following command to your terminal: `echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"`. The result should look like this:
 
-![Character Example](https://github.com/jshcmps/my-agnoster-zsh-theme/blob/master/characters.png)
+![Character Example](https://raw.githubusercontent.com/jshcmps/my-agnoster-zsh-theme/07070ff8720d25b10a627896cab156fb151f7e4a/characters.png)
 
 ## What does it show?
 
@@ -31,7 +31,7 @@ To test if your terminal and font support it, check that all the necessary chara
 - Working directory
 - Elevated (root) privileges (⚡)
 
-![Screenshot](https://github.com/jshcmps/my-agnoster-zsh-theme/blob/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/jshcmps/my-agnoster-zsh-theme/07070ff8720d25b10a627896cab156fb151f7e4a/screenshot.png)
 
 ## Customize your prompt view
 
