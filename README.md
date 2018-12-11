@@ -5,10 +5,12 @@ A ZSH theme optimized for people who use:
 - Unicode-compatible fonts and terminals (I use iTerm2)
 
 For Mac users, I highly recommend iTerm 2 with the following preference changes:
-Preferences > Profile 
-- Text > Font: Cuisine for Powerline, 11pt
-- Colors > Basic Colors: Foreground and Selection = #10ff00
-- Colors > Cursor Colors: Cursor Guide Enabled,set to #808080
+Preferences  
+- > Profiles > Text > Font: Cuisine for Powerline, 11pt
+- > Profiles > Colors > Basic Colors: Foreground and Selection = #10ff00
+- > Profiles > Colors > Cursor Colors: Cursor Guide Enabled,set to #808080
+- > Profiles > Window > Window Appearance > Transparency: ~ 30-35% 
+- > Appearance > Tabs > Theme: Dark
 
 # Compatibility
 
